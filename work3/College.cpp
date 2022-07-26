@@ -107,7 +107,7 @@ bool college::add_student()
 		return true;
 		break;
 	default:
-		cout << "the input is not legal" << endl;
+		cout << "the input is not leg" << endl;
 		return false;
 		break;
 	}
